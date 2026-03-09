@@ -1,0 +1,44 @@
+p{
+    text-align: center; /* Centraliza o texto horizontalmente */
+    color: rgb(255, 253, 253); /* Cor do texto */
+    font-size: 25px; /* Aumenta o tamanho da fonte */   
+}
+h1{
+    text-align: center; /* Centraliza o texto horizontalmente */
+    color: rgb(255, 255, 255); /* Cor do texto */
+    font-size: 125px; /* Aumenta o tamanho da fonte */
+}
+body{
+    background: url(computador.jpg); /* Substitua "caminho/para/sua/imagem.jpg" pelo caminho real da sua imagem */
+    background-repeat: no-repeat; /* Evita que a imagem se repita */
+    background-size: cover; /* Faz a imagem cobrir toda a área de fundo */
+}
+
+.card{
+    background:rgb(255, 255, 255); /* Cor de fundo da card */
+    padding:20px; /* Adiciona um preenchimento interno para criar espaço entre o conteúdo e as bordas da card */
+    width: 1000px; /* Define a largura da card */
+    border-radius:10px; /* Adiciona cantos arredondados à card */
+    box-shadow:0 5px 15px rgba(0,0,0,0.2); /* Adiciona uma sombra para dar profundidade */
+    text-align:center; /* Centraliza o texto dentro da card */
+    font-family: Arial; /* Define a fonte da card */
+    background:#ffffff; /* Cor de fundo da card */
+    margin-left: 250px; /* Centraliza a card horizontalmente */
+}
+button{
+    display: block;
+    margin: 0 auto;  /* Centraliza o botão horizontalmente */
+    padding: 20px 40px; /* Aumenta o tamanho do botão */
+    font-size: 24px; /* Aumenta o tamanho da fonte */
+    background-color: #0e8d13; /* Cor de fundo do botão */
+    color: white; /* Cor do texto do botão */
+    border: none; /* Remove a borda padrão do botão */
+    border-radius: 5px; /* Adiciona cantos arredondados ao botão */
+    cursor: pointer; /* Altera o cursor para indicar que é clicável */
+}
+p{
+    text-align: center; /* Centraliza o texto horizontalmente */
+    color: rgb(0, 0, 0); /* Cor do texto */
+    font-size: 25px; /* Aumenta o tamanho da fonte */
+    margin-bottom: 120px; /* Adiciona uma margem inferior para criar espaço entre o parágrafo e o botão */
+}
