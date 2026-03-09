@@ -1,0 +1,19 @@
+h1{
+    text-align: center; /* Centraliza o texto horizontalmente */
+    color: white; /* Cor do texto */
+    font-size: 250px; /* Aumenta o tamanho da fonte */
+}
+body{
+    background: url(glitch.webp); /* Substitua "caminho/para/sua/imagem.jpg" pelo caminho real da sua imagem */
+}
+button{
+    display: block;
+    margin: 0 auto;  /* Centraliza o botão horizontalmente */
+    padding: 20px 40px; /* Aumenta o tamanho do botão */
+    font-size: 24px; /* Aumenta o tamanho da fonte */
+    background-color: #0e8d13; /* Cor de fundo do botão */
+    color: white; /* Cor do texto do botão */
+    border: none; /* Remove a borda padrão do botão */
+    border-radius: 5px; /* Adiciona cantos arredondados ao botão */
+    cursor: pointer; /* Altera o cursor para indicar que é clicável */
+}

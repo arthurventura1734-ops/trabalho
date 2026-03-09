@@ -1,0 +1,21 @@
+.card{
+    background:white; /* Cor de fundo da card */
+    padding:20px; /* Adiciona um preenchimento interno para criar espaço entre o conteúdo e as bordas da card */
+    width: 1000px; /* Define a largura da card */
+    border-radius:10px; /* Adiciona cantos arredondados à card */
+    box-shadow:0 5px 15px rgba(0,0,0,0.2); /* Adiciona uma sombra para dar profundidade */
+    text-align:center; /* Centraliza o texto dentro da card */
+    font-family: Arial; /* Define a fonte da card */
+    background:#f2f2f2; /* Cor de fundo da card */
+    margin-left: 250px; /* Centraliza a card horizontalmente */
+}
+h1{
+    text-align: center; /* Centraliza o texto horizontalmente */
+    color: rgb(255, 255, 255); /* Cor do texto */
+    font-size: 100px; /* Aumenta o tamanho da fonte */
+}
+body{
+    background: url(códigos.jpg); /* Substitua "caminho/para/sua/imagem.jpg" pelo caminho real da sua imagem */
+    background-repeat: no-repeat; /* Evita que a imagem se repita */
+    background-size: cover; /* Faz a imagem cobrir toda a área de fundo */
+}
